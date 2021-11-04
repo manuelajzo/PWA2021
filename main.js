@@ -1,4 +1,4 @@
-
+const API_KEY = "1ff8e50dca959c16e78209dad010425c";
 
 const button = document.getElementById("botonBuscar");
 const input = document.getElementById("inputBuscar");
